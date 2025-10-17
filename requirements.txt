@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+pillow
+matplotlib
+seaborn
+tqdm
+highlight-text
+scikit-image

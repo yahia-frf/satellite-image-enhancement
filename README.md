@@ -286,7 +286,7 @@ If you use this project in your research, please cite:
 🔬 Research Interests: Deep Learning, Computer Vision, Generative AI  
 
 [![GitHub](https://img.shields.io/badge/GitHub-yahia--frf-181717?style=flat&logo=github)](https://github.com/yahia-frf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yahiaferarsa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yahia-ferarsa)
 
 </div>
 

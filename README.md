@@ -285,8 +285,13 @@ If you use this project in your research, please cite:
 🎓 Data Science & AI Student – École Nationale Polytechnique (ENP)  
 🔬 Research Interests: Deep Learning, Computer Vision, Generative AI  
 
-[![GitHub](https://img.shields.io/badge/GitHub-yahia--frf-181717?style=flat&logo=github)](https://github.com/yahia-frf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yahia-ferarsa)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-yahia--frf-181717?style=for-the-badge&logo=github)](https://github.com/yahia-frf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yahia_Ferarsa-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yahia-ferarsa)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiaferarsaa@gmail.com)
+
+</div>
 
 </div>
 
